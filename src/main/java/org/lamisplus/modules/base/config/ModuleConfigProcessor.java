@@ -16,6 +16,7 @@ import org.lamisplus.modules.base.yml.WebModuleConfig;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
+import org.lamisplus.modules.base.domain.entities.Module;
 
 import java.io.IOException;
 import java.util.*;
